@@ -1,5 +1,5 @@
 class Solution:
-    ## not
+    ## notES
     def findMin(self, nums: List[int]) -> int:
             minimum = nums[0]
             l, r = 0, len(nums) - 1
